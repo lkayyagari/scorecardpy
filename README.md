@@ -18,6 +18,8 @@ Its goal is to make the development of traditional credit risk scorecard model e
 
 ## Installation
 
+-check2 (random_edit: @9Jan2022)
+
 - Install the release version of `scorecardpy` from [PYPI](https://pypi.org/project/scorecardpy/) with:
 ```
 pip install scorecardpy
