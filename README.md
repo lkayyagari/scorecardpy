@@ -14,6 +14,8 @@ Its goal is to make the development of traditional credit risk scorecard model e
 - scorecard scaling (`scorecard`, `scorecard_ply`)
 - performance evaluation (`perf_eva`, `perf_psi`)
 
+- check1 (random_edit:@9Jan2022)
+
 ## Installation
 
 - Install the release version of `scorecardpy` from [PYPI](https://pypi.org/project/scorecardpy/) with:
